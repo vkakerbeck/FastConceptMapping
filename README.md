@@ -1,7 +1,21 @@
 # FastConceptMapping
 Code and data corresponding to work on fast concept mapping (FCM) based on sparse and meaningful representations learned self-supervised through curiosity and embodiment.
 
-### Pre-Print: 
+### Publication:
+https://ieeexplore.ieee.org/document/10274870
+
+Cite as:
+@ARTICLE{10274870,
+  author={Clay, Viviane and Pipa, Gordon and Kühnberger, Kai-Uwe and König, Peter},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Development of Few-Shot Learning Capabilities in Artificial Neural Networks When Learning Through Self-Supervised Interaction}, 
+  year={2024},
+  volume={46},
+  number={1},
+  pages={209-219},
+  doi={10.1109/TPAMI.2023.3323040}}
+
+#### Pre-Print: 
 https://arxiv.org/abs/2102.02153
 
 ### Data:
