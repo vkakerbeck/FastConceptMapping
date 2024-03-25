@@ -5,6 +5,7 @@ Code and data corresponding to work on fast concept mapping (FCM) based on spars
 https://ieeexplore.ieee.org/document/10274870
 
 Cite as:
+
 @ARTICLE{10274870,
   author={Clay, Viviane and Pipa, Gordon and Kühnberger, Kai-Uwe and König, Peter},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
